@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"No tests yet\""
   },
-  "keywords": ["release", "testing"],
+  "keywords": [
+    "release",
+    "testing"
+  ],
   "author": "MapColonies",
   "license": "MIT"
 }
