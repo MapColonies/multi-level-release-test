@@ -1,6 +1,6 @@
 {
   "name": "multi-level-release-test",
-  "version": "0.2.0-rc.5",
+  "version": "1.0.0",
   "description": "Test repository for Smart Release Please action",
   "main": "index.js",
   "scripts": {
