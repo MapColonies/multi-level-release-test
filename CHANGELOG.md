@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0-rc.5](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.4...v0.2.0-rc.5) (2026-01-29)
+
+
+### Bug Fixes
+
+* improve error messages ([e08476c](https://github.com/MapColonies/multi-level-release-test/commit/e08476cca4f14c1be9c8697ec9ebead70f977959))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([f84e09c](https://github.com/MapColonies/multi-level-release-test/commit/f84e09ce7f5f0bfd5b1edb3709aa534cbc73d195))
+
 ## [0.2.0-rc.4](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.1...v0.2.0-rc.4) (2026-01-29)
 
 
