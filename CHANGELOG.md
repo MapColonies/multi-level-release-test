@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v1.0.0-rc.1...v1.0.1-rc.1) (2026-01-29)
+
+
+### Bug Fixes
+
+* test change ([bd39f4e](https://github.com/MapColonies/multi-level-release-test/commit/bd39f4e47a7b3bf9d66832866d38e41dd5f8b8cb))
+
 ## [1.0.0-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.5...v1.0.0-rc.1) (2026-01-29)
 
 
