@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.0.1-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v1.0.0-rc.1...v1.0.1-rc.1) (2026-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* batch breaking 3
+
+### Features
+
+* batch breaking 3 ([7b102be](https://github.com/MapColonies/multi-level-release-test/commit/7b102becf0aace55ccf516e38944e90d5b626c0f))
+* batch feature 1 ([14c66eb](https://github.com/MapColonies/multi-level-release-test/commit/14c66ebcddf81b48f401d084d227ba31a0af611e))
+* test injection $(whoami) `date` ([e969b85](https://github.com/MapColonies/multi-level-release-test/commit/e969b852e5edb10cb2e29f5b3f5c0698b7a8a87d))
+* uppercase commit type ([6bbfb8a](https://github.com/MapColonies/multi-level-release-test/commit/6bbfb8ac0928bba43db1a863ed1aefd00fca7687))
+
+
+### Bug Fixes
+
+* batch fix 2 ([6d846fa](https://github.com/MapColonies/multi-level-release-test/commit/6d846fa309f936f45223f82027faf710dd70c7fd))
+* no space after colon ([1f48c9f](https://github.com/MapColonies/multi-level-release-test/commit/1f48c9f3fde01eb755b8ee04461529cf97149f6e))
+* test after manual tag creation ([d4c8c3f](https://github.com/MapColonies/multi-level-release-test/commit/d4c8c3f42207e6dd0434f5be0fac929d7061d9e6))
+* test change ([bd39f4e](https://github.com/MapColonies/multi-level-release-test/commit/bd39f4e47a7b3bf9d66832866d38e41dd5f8b8cb))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([d5bbdee](https://github.com/MapColonies/multi-level-release-test/commit/d5bbdee0cdf151c6c75be0308b02d27cb359f0ee))
+* enforce correct rc version ([e2e052b](https://github.com/MapColonies/multi-level-release-test/commit/e2e052bc667db19d9892ae95f7ee3e6ba807a297))
+* enforce correct rc version ([8052e88](https://github.com/MapColonies/multi-level-release-test/commit/8052e88015f761c6008a31897fe9ffcc44bb7a6d))
+
 ## [1.0.0-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.5...v1.0.0-rc.1) (2026-01-29)
 
 
