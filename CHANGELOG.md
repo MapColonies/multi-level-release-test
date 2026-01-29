@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v1.0.0-rc.1...v1.1.0-rc.1) (2026-01-29)
+
+
+### Features
+
+* test injection $(whoami) `date` ([e969b85](https://github.com/MapColonies/multi-level-release-test/commit/e969b852e5edb10cb2e29f5b3f5c0698b7a8a87d))
+
+
+### Bug Fixes
+
+* test change ([bd39f4e](https://github.com/MapColonies/multi-level-release-test/commit/bd39f4e47a7b3bf9d66832866d38e41dd5f8b8cb))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([8052e88](https://github.com/MapColonies/multi-level-release-test/commit/8052e88015f761c6008a31897fe9ffcc44bb7a6d))
+
 ## [1.0.0-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.5...v1.0.0-rc.1) (2026-01-29)
 
 
