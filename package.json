@@ -1,0 +1,12 @@
+{
+  "name": "multi-level-release-test",
+  "version": "0.1.0",
+  "description": "Test repository for Smart Release Please action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["release", "testing"],
+  "author": "MapColonies",
+  "license": "MIT"
+}
