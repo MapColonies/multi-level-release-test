@@ -1,12 +1,15 @@
 {
   "name": "multi-level-release-test",
-  "version": "0.1.0",
+  "version": "0.2.0-rc.5",
   "description": "Test repository for Smart Release Please action",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet\""
   },
-  "keywords": ["release", "testing"],
+  "keywords": [
+    "release",
+    "testing"
+  ],
   "author": "MapColonies",
   "license": "MIT"
 }
