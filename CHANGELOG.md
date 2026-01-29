@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.0-rc.1](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.5...v1.0.0-rc.1) (2026-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* redesign authentication API
+
+### Features
+
+* redesign authentication API ([f1ae585](https://github.com/MapColonies/multi-level-release-test/commit/f1ae5854fad65a87dd9905e0ff63f55e80b35c9e))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([7a5358d](https://github.com/MapColonies/multi-level-release-test/commit/7a5358dfa43e818fb43dfa9c242f59ea7739ca31))
+
 ## [0.2.0-rc.5](https://github.com/MapColonies/multi-level-release-test/compare/v0.2.0-rc.4...v0.2.0-rc.5) (2026-01-29)
 
 
